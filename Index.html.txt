@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تحميل فيديوهات تيكتوك بدون علامة مائية</title>
+</head>
+<body>
+    <h1>موقع تحميل فيديوهات تيكتوك بدون علامة مائية</h1>
+    <form id="form">
+        <input type="text" id="videoUrl" placeholder="أدخل رابط الفيديو هنا" required>
+        <button type="submit">تحميل الفيديو</button>
+    </form>
+    <div id="downloadLink"></div>
+    <script src="script.js"></script>
+</body>
+</html>
